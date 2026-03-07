@@ -1,4 +1,4 @@
-# EmotionCrypto 🎭🔒
+# EmotionAwarness 🎭🔒
 
 A simple but trippy experiment: what if we could encrypt the content of a message, but *keep the emotional sentiment readable* for AI agents or bots? 
 
